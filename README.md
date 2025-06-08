@@ -17,7 +17,7 @@ Türkçe rüya yorumlama uygulaması – kullanıcıların rüyalarını yazıp 
 
 ## 🛠️ Kullanılan Teknolojiler
 
-- [Next.js](https://nextjs.org/) (veya React)
+- [Next.js](https://nextjs.org/) 
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Hugging Face Inference API](https://huggingface.co/inference-api)
 
